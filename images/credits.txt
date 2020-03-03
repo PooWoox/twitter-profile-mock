@@ -1,0 +1,12 @@
+avatar 1 = https://www.flaticon.com/br/icone-gratis/avatar_168733
+baby = https://www.flaticon.com/free-icon/baby_191720
+followers = https://www.flaticon.com/free-icon/user_1077063
+photos = https://www.flaticon.com/free-icon/attach_1060418
+link = https://www.flaticon.com/free-icon/link_659999
+clock = https://www.flaticon.com/free-icon/clock_2088617
+farmer = https://www.flaticon.com/free-icon/farmer_122478
+woman = https://www.flaticon.com/free-icon/woman_702011
+doctor = https://www.flaticon.com/free-icon/doctor_921130
+comments = https://www.flaticon.com/free-icon/chat_134783
+retweet = https://www.flaticon.com/free-icon/retweet_109740
+heart = https://www.flaticon.com/free-icon/heart_812327
